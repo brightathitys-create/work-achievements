@@ -1,7 +1,7 @@
 # Work Achievements
 
 ## 👋 About Me
-Internship & project achievements collected as portfolio and evidence.
+A collection of internship and project achievements presented as a professional portfolio and supporting evidence.
 
 ## 🎓 Internship Experience
 - [ ] Dashboard UI Design (IoT / Laboratory)
