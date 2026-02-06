@@ -7,15 +7,7 @@ Internship & project achievements collected as portfolio and evidence.
 - [ ] Dashboard UI Design (IoT / Laboratory)
 - [ ] Research & Data Visualization
 - [ ] System Analysis
-
-## 🧪 Projects
-| Project | Description | Evidence |
-|-------|------------|----------|
-
-## 📜 Certificates
-| Certificate | Year | Evidence |
-|------------|------|----------|
-| UX Design | 2024 | link |
+- [ ] Design System
 
 ## 🛠 Skills
 - UI/UX Design
